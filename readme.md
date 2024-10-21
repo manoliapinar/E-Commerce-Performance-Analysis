@@ -13,11 +13,27 @@ Ce projet se concentre sur l'analyse des performances d'un site e-commerce, en m
 - **Rédaction d’un rapport final : Documentation des résultats**
 
 **Mes jeux de données :**
-- **Données de ventes e-commerce (incluant produits, clients et transactions)**
-- **Données sur le comportement des clients (visites, achats, abandons de panier)**
-- **Données promotionnelles (campagnes marketing et leurs impacts sur les ventes)**
+** 1.E-Commerce Dataset :**
+**- Colonnes :**
+- Customer ID : Identifiant unique du client
+- Age : Âge du client
+- Gender : Genre du client
+- Location : Localisation géographique du client
+- Annual Income : Revenu annuel du client
+- Purchase History : Historique des achats effectués par le client
+
+**2. E-Commerce Clickstream Transactions :**
+
+**- Colonnes :**
+- UserID : Identifiant unique de l'utilisateur
+- SessionID : Identifiant de session pour suivre les interactions d'un utilisateur
+- Timestamp : Horodatage de l'événement
+- EventType : Type d'événement (par exemple, vue de produit, ajout au panier, achat)
+- ProductID : Identifiant du produit
+- Amount : Montant de la transaction
+- Outcome : Résultat de l'événement (par exemple, succès ou échec)
 
 Objectif :
-L'objectif est de comprendre comment divers facteurs, tels que les promotions, les saisons ou le comportement des clients, affectent les performances du site e-commerce. Cela inclut l'analyse des ventes, la fidélisation des clients et l'identification des produits les plus performants.
+L'objectif est de comprendre comment divers facteurs, tels que le comportement d'achat, l'âge, le genre, et le revenu annuel des clients, affectent les performances du site e-commerce. Cela inclut l'analyse des ventes, la fidélisation des clients et l'identification des produits les plus performants.
 
 Pour toute question ou opportunité de collaboration, n'hésitez pas à me contacter sur [LinkedIn (https://www.linkedin.com/in/manolia-pinar/) ou par [Email](mailto:anoliapinar@gmail.com).
