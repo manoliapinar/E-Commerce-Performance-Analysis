@@ -35,7 +35,7 @@ Ce projet se concentre sur l'analyse des performances d'un site e-commerce, en m
 - Amount : Montant de la transaction
 - Outcome : Résultat de l'événement (par exemple, succès ou échec)
 
-Objectif :
+
 L'objectif est de comprendre comment divers facteurs, tels que le comportement d'achat, l'âge, le genre, et le revenu annuel des clients, affectent les performances du site e-commerce. Cela inclut l'analyse des ventes, la fidélisation des clients et l'identification des produits les plus performants.
 
 Pour toute question ou opportunité de collaboration, n'hésitez pas à me contacter sur [LinkedIn (https://www.linkedin.com/in/manolia-pinar/) ou par [Email](mailto:anoliapinar@gmail.com).
