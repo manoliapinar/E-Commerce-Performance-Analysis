@@ -1,1 +1,17 @@
+**🔧 Technologies et Outils Utilisés**
 
+- **Langages : Python**
+- **Bibliothèques Python : Pandas, NumPy, Matplotlib, Seaborn, Plotly**
+- **Outils de Visualisation : Looker Studio**
+- **Environnements : Google Colab**
+
+**📁 Structure du Répertoire**
+
+- **structure-du-projet**
+- **data**
+- **notebooks**
+- **visuals**
+- **readme.md**
+- **license**
+- **.gitignore**
+- **requirements.txt**
