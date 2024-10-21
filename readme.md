@@ -14,7 +14,7 @@ Ce projet se concentre sur l'analyse des performances d'un site e-commerce, en m
 
 **Mes jeux de données :**
 
-**1.E-Commerce Dataset :**
+**1. E-Commerce Dataset :**
 
 *- Colonnes :*
 - Customer ID : Identifiant unique du client
