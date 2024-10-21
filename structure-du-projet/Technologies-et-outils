@@ -5,13 +5,13 @@
 - Outils de Visualisation : Looker Studio
 - Environnements : Google Colab
 
-**📁 Structure du Répertoire**
+📁 Structure du Répertoire
 
-- **structure-du-projet**
-- **data**
-- **notebooks**
-- **visuals**
-- **readme.md**
-- **license**
-- **.gitignore**
-- **requirements.txt**
+- structure-du-projet
+- data
+- notebooks
+- data-vizualisation-looker-studio
+- readme.md
+- license
+- .gitignore
+- requirements.txt
