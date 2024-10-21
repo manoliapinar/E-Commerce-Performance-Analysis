@@ -13,8 +13,10 @@ Ce projet se concentre sur l'analyse des performances d'un site e-commerce, en m
 - **Rédaction d’un rapport final : Documentation des résultats**
 
 **Mes jeux de données :**
-** 1.E-Commerce Dataset :**
-**- Colonnes :**
+
+**1.E-Commerce Dataset :**
+
+*- Colonnes :*
 - Customer ID : Identifiant unique du client
 - Age : Âge du client
 - Gender : Genre du client
@@ -24,7 +26,7 @@ Ce projet se concentre sur l'analyse des performances d'un site e-commerce, en m
 
 **2. E-Commerce Clickstream Transactions :**
 
-**- Colonnes :**
+*- Colonnes :*
 - UserID : Identifiant unique de l'utilisateur
 - SessionID : Identifiant de session pour suivre les interactions d'un utilisateur
 - Timestamp : Horodatage de l'événement
